@@ -5,4 +5,5 @@
 1. [SimpleChattyBot](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/SimpleChattyBot)
 2. [TicTacToe](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Tic-Tac-Toe)
 3. [Zookeeper](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Zookeeper)
-4. [Banking System](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/BankingSystem)
+4. [Hangman](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Hangman)
+5. [Banking System](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/BankingSystem)
