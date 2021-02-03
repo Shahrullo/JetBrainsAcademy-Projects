@@ -6,4 +6,5 @@
 2. [TicTacToe](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Tic-Tac-Toe)
 3. [Zookeeper](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Zookeeper)
 4. [Hangman](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Hangman)
-5. [Banking System](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/BankingSystem)
+5. [Rock-Paper-Scissors](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Rock-Paper-Scissors)
+6. [Banking System](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/BankingSystem)
