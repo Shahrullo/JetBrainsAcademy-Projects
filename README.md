@@ -7,4 +7,5 @@
 3. [Zookeeper](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Zookeeper)
 4. [Hangman](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Hangman)
 5. [Rock-Paper-Scissors](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Rock-Paper-Scissors)
-6. [Banking System](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/BankingSystem)
+6. [Coffe Machine](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/CoffeeMachine)
+7. [Banking System](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/BankingSystem)
