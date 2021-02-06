@@ -9,3 +9,4 @@
 5. [Rock-Paper-Scissors](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Rock-Paper-Scissors)
 6. [Coffe Machine](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/CoffeeMachine)
 7. [Banking System](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/BankingSystem)
+8. [Numeric Matrix Processor](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Numeric%20Matrix%20Processor)
