@@ -12,3 +12,4 @@
 8. [Numeric Matrix Processor](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Numeric%20Matrix%20Processor)
 9. [Virtual Piano](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Virtual%20Piano)
 10. [Smart Calculator](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Smart%20Calculator)
+11. [Loan Calculator](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Loan%20Calculator)
