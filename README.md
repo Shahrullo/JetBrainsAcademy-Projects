@@ -14,3 +14,4 @@
 10. [Smart Calculator](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Smart%20Calculator)
 11. [Loan Calculator](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Loan%20Calculator)
 12. [To Do List](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/To-Do-List)
+13. [Password Hacker](https://github.com/Shahrullo/JetBrainsAcademy-Projects/tree/main/Password-Hacker)
